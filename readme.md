@@ -23,8 +23,8 @@ https://github.com/AndreyST295ST/IOS_learn_develop.git
 
 
 ## Author
-- Name: Stepanov, Andrey Alexeevich
-- Group: МПБ-о-01
+- Name: Степанов Андрей Алексеевич
+- Group: МПБ 101-о-01
 
 ## Notes
 - This project was developed using VMWare.
